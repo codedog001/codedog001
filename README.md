@@ -1,4 +1,4 @@
-## Hey there, I'm Mohit!
+## Hey there, <img align="top-center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Mohit!
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 - 🔭 I’m currently working at MateRate. <br />
 - 🌱 I’m currently learning Flutter and Android Development. <br />
