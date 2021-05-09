@@ -12,7 +12,7 @@
 
 
  
- ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=codedog001&buefy&count_private=true&show_icons=true&hide_border=true&hide=issues,prs,contribs)
+ ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=codedog001&buefy&count_private=true&show_icons=true&hide_border=true&hide=stars,issues,prs,contribs)
 <br />
  <!--
 - 👯 I’m looking to collaborate on...
