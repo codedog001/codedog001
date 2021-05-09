@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter and Android Development. <br />
 - 🤔 I’m looking for help with Flutter with MySql as database. <br />
 - 💬 Talk to me about Flutter. <br />
-- ⚡ Something Quirky: I drink coffee <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" /> without sugar and milk. 
+- 🤨 Something Quirky: I drink coffee <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" /> without sugar and milk. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mohit-jain0901/">
   <img align="center" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"  />
  </a>
