@@ -5,6 +5,10 @@
 - 🤔 I’m looking for help with Flutter with MySql as database. <br />
 - 💬 Talk to me about Flutter. <br />
 - ⚡ Something Quirky: I drink coffee <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" /> without sugar and milk. 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/savagecarol/">
+  <img align="center" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"  />
+ </a>
+
 
 
  
