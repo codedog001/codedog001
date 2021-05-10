@@ -17,11 +17,3 @@
  
  ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=codedog001&buefy&count_private=true&show_icons=true&hide_border=true&hide=stars,issues,prs,contribs)
 <br />
- <!--
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with Flutter application with MySql as database.
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohit-jain0901/)
-- 😄 Pronouns: ...
-
--->
