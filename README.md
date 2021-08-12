@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 - 🔭 I’m currently working at MateRate. 
-- 🌱 I’m currently learning Flutter and Android Development. 
+- 🌱 I’m currently working on my problem solving skills along with that, a Flutter project. 
 - 🤔 I’m looking for help with !(thing), as of now. 
 - 💬 Ask me about Flutter. 
 - 🤨 Something Quirky: I drink coffee <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" /> without sugar and milk. 
