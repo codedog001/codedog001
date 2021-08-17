@@ -1,7 +1,7 @@
 ## Hey there, <img align="top-center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> [I'm Mohit!](https://npminstalldeveloper.com)
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
--<!-- 🔭 I’m currently working at MateRate. -->
+<!-- 🔭 I’m currently working at MateRate. -->
 - 🌱 I’m currently working on my problem solving skills along with that, a Flutter project. 
 - 🤔 I’m looking for help with !(thing), as of now. 
 - 💬 Ask me about Flutter. 
