@@ -17,5 +17,5 @@
 
 
  
- ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=codedog001&buefy&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=stars,prs,issues,contribs)
+ ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=codedog001&buefy&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=stars,contribs)
 <br />
