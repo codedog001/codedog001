@@ -4,7 +4,6 @@
 <!-- 🔭 I’m currently working at MateRate. -->
 - 🌱 I’m currently working on my problem solving skills.
 - 🤔 I’m looking for help with !(thing), as of now. 
-- 💬 Ask me about Flutter. 
 - ⚡ Fun Fact: CodeDog == <img width="17px" src="https://user-images.githubusercontent.com/70198503/117622838-b67d3d00-b190-11eb-8268-d7bdce2512cd.png" /> <img width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /> and  <img width="25px" src="https://user-images.githubusercontent.com/70198503/117622244-11626480-b190-11eb-918a-f74cc0b9b7f8.gif" />
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mohit-jain0901/">
   <img align="center" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  /> &nbsp;
