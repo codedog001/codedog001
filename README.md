@@ -10,7 +10,7 @@
   <a href="https://npminstalldeveloper.com/#contact"><img align="center" width="24px" src="https://user-images.githubusercontent.com/70198503/120179787-a05f1b80-c228-11eb-801a-3f05a2bd1b6e.png" />
  </a>
   
-<!--   - 🤨 Something Quirky: I drink coffee <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" /> without sugar and milk.  -->
+<!--   - ?🤨 Something Quirky: I drink coffee <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" /> without sugar and milk.  -->
 
 
 
