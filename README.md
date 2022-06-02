@@ -1,4 +1,4 @@
-## Hey there, <img align="top-center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> [I'm Mohit!](https://npminstalldeveloper.com)
+## Hey there, <img align="top-center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px"> [I'm Mohit!](https://npminstalldeveloper.com)
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 <!-- 🔭 I’m currently working at -. -->
